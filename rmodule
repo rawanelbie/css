@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        h1, h2, h3 {
+            margin-bottom: 10px;
+        }
+        p {
+            margin: 5px 0;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div>
+            <ol>
+                <li><a href="cv.html">Home</a> </li>
+                <li><a href="login.html">logout</a> </li>
+                <li><a href="quiz.html">Quiz</a> </li>
+            </ol>
+
+        </div>
+        <header>
+            <h1>Rawane EL Boumeshouli</h1>
+            <p>Etudiante en année preparatoire à l'école marocaine des sciences de l'ingenieurs</p>
+            <p>Marrakech,Maroc</p>
+            <p>Téléphone: 0647960595</p>
+            <p>Email: rawaneboumeshouli1@gmail.com</p>
+            <p>LinkedIn: <a href="#">linkedin.com/in/exemple</a></p>
+        </header>
+        <div class="section">
+            <h2>FORMATIONS ACADEMIQUES</h2>
+            <p><strong>École marocaine des sciences d’ingénieur</strong></p>
+            <p>2022 - Présent | EMSI Marrakech</p>
+            <p>Deux années préparatoires au cycle d’ingénieur</p>
+            <p>Baccalauréat sciences physique BIOF (mention: Bien)</p>
+        </div>
+        
+        <div class="section">
+            <h2>PROJETS ACADÉMIQUES</h2>
+            <ul>
+                <li>Réalisation d’un programme permettant de simuler
+                    un système de gestion des livres d’une bibliothèque
+                    en language C.</li>
+                </ul>
+        </div>
+        
+        <div class="section">
+            <h2>ACTIVITES PARASCOLAIRES</h2>
+            <p><strong>Ambassadrice centre carrière EMSI MARRAKECH</strong></p>
+          
+        </div>
+        <div class="section">
+            <h2>LES COMPETENCES</h2>
+            <p><strong>Techniques</strong></p>
+            <ul>
+                <li>Web</li>
+                </ul>
+            <p>HTML,CSS,BootStrap,SQL</p>
+            <ul>
+                <li>language</li>
+            </ul>
+            <p>C</p>
+            <p><strong>Transversale</strong></p>
+            <ul>
+                <li>Créativité</li>
+                <li>Esprit D'équipe</li>
+                <li>Résolution des problémes</li>
+                <li>Adaptabilité</li>
+            </ul>
+            <p><strong>Managériales</strong></p>
+            <ul>
+                <li>Leadership technique</li>
+                <li>Géstion de projets</li>
+                <li>Délégation</li>
+            </ul>
+
+  
+        </div>
+        
+        <div class="section">
+            <h2>LANGUES</h2>
+            <ul>
+                <li>Arabe: Langue maternelle</li>
+                <li>Français:courant(B2)</li>
+                <li>Anglais:intermédiaire</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>CENTRE D’INTERET</h2>
+            <ul>
+                <li>Voyages</li>
+                <li>Lecture</li>
+                <li>Natation</li>
+                <li>Art</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
